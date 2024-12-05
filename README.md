@@ -1,2 +1,8 @@
-# Eaglercraft PBR shaders
-## This repository will be deleted imminently. Create a fresh fork ASAP to preserve it, you MUST fork a 100% fresh copy in order for the repository to be considered genuine
+# ayunEaglerConfig
+Eaglercraft client configuration utility.
+
+Utilizes:
+- a slightly modified version of [powernbt-js](https://github.com/DPOH-VAR/powernbt-js)
+- [long.js](https://github.com/dcodeIO/Long.js)
+- [json-editor](https://github.com/json-editor/json-editor)
+- [Nunito Font](https://fonts.google.com/specimen/Nunito)
